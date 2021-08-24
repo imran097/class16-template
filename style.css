@@ -1,0 +1,265 @@
+/*menu*/
+
+.header{
+    background-color:#070a3a;
+}
+
+.logo{
+     margin-bottom: 0;
+    line-height: 70px;
+}
+
+.logo img{
+
+    width: 80px;
+    
+}
+
+.menu{
+    list-style: none;
+    margin-bottom: 0;
+}
+
+
+
+.menu li{
+    display: inline-block;
+    margin-left: -5px;
+}
+
+.menu li a{
+     text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    line-height: 51px;
+    display: inline-block;
+    
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
+.button{
+
+    background:#337AB7;
+
+    border: none;
+    border-radius: 5px;
+    
+}
+
+
+
+
+
+/*banner*/
+
+
+.banner{
+
+    background-image: url(./imges/banner.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    padding: 250px 0;
+    background-position: bottom center;
+    
+ 
+     
+    
+}
+
+
+
+.banner-text{}
+.banner-text h1{
+
+    color: white;
+    
+}
+.banner-text p{
+    color: white;
+    
+    
+}
+span a{
+    display: block;
+}
+
+/* service */
+
+
+.service{
+
+    background-color: #bac1f3;
+    padding-bottom: 50px;
+}
+
+.service-text h1{
+
+    text-transform: capitalize;
+}
+
+
+.box-1{
+
+}
+
+.box-1 img{
+    width: 100px;
+    height: auto;
+}
+
+.box-1 h3{
+    font-size: 10px;
+    text-transform: capitalize;
+}
+
+.box-1 p{
+    font-size: 10px;
+    
+}
+
+.box-1 span a {}
+
+
+
+
+.box-2{
+
+    
+}
+
+.box-2 img{
+    width: 100px;
+    height: auto;
+}
+
+.box-2 h3{
+
+    font-size: 10px;
+    text-transform: capitalize;
+}
+
+.box-2 p{
+
+    font-size: 10px;
+
+}
+
+.box-2 span a {}
+
+
+
+.box-3{
+    
+}
+
+.box-3 img{
+    width: 100px;
+    height: auto;
+}
+
+.box-3 h3{
+
+    font-size: 10px;
+    text-transform: capitalize;
+}
+
+.box-3 p{
+
+    font-size: 10px;
+}
+
+.button a{
+    font-size: 10px;
+    text-transform: capitalize;
+}
+
+
+
+
+/*about*/
+
+
+.about{
+
+    padding: 70px;
+    background-color: #c2d4ea;
+    
+}
+
+
+.about-header{
+    text-transform: capitalize;
+}
+
+.about-img{}
+
+.about-left-2{
+    text-align: justify;
+    font-size: 10px;
+    width: 90%;
+    margin: auto;
+}
+
+
+ul{
+
+    text-align: justify;
+    width: 90%;
+    line-height: 25px;
+    font-size: 12px;
+    list-style: none;
+}
+
+
+
+.about-right-1 h2{
+
+    text-transform: capitalize;
+    font-size: 15px;
+}
+
+
+.about-right-1 h3{
+
+    font-size: 10px;
+}
+.about-right-1 h4{
+
+    font-size: 10px;
+}
+.about-right-1 p{
+    font-size: 15px;
+
+}
+
+
+.contact{
+
+    background-color: hsl(0, 26%, 93%);
+}
+
+.contact-header{
+
+    text-transform: capitalize;
+}
+
+
+
+.footer{
+
+    background-color: #0062d3 ;
+    color: white;
+    padding: 20px 0;
+   margin-bottom: 10px;
+}
+.footer-1{
+
+    font-size: 15px;
+
+}
+
+.footer-2{
+    font-size: 15px;
+
+}
